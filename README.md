@@ -78,7 +78,7 @@ Garantir a autenticidade, segurança e imutabilidade de certificados acadêmicos
 
 ## 👨‍🏫 Desenvolvido por
 
-Leonardo Spilere — Projeto acadêmico de Blockchain com uso de DApps para autenticação de certificados.  
+Gustavo Fontana & Leonardo Spilere.  
 Curso de Ciência da Computação - UNESC
 
 ---
